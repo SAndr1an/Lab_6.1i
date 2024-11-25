@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5992C80-7886-43FC-BD28-89C7B5DD6E69}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5992C80-7886-43FC-BD28-89C7B5DD6E69}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35C5992-49A7-4BF9-A92A-D5643175343E}|Lab_6.1i\\Lab_6.1i.vcxproj|C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\Lab_6.1i\\Lab_6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F35C5992-49A7-4BF9-A92A-D5643175343E}|Lab_6.1i\\Lab_6.1i.vcxproj|solutionrelative:Lab_6.1i\\Lab_6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_6.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\Lab_6.1i\\Lab_6.1.cpp",
+              "RelativeDocumentMoniker": "Lab_6.1i\\Lab_6.1.cpp",
+              "ToolTip": "C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\Lab_6.1i\\Lab_6.1.cpp",
+              "RelativeToolTip": "Lab_6.1i\\Lab_6.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T01:18:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Andrian\\source\\repos\\Lab_6.1i\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T02:25:34.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
